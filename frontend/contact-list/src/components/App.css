@@ -1,0 +1,22 @@
+.contactitem-container{
+    border: 3px solid teal;
+    text-align: center;
+    width: 20%;
+    margin-left: 40px;
+    padding-bottom: 20px;
+}
+.contactlist{
+    display: flex;
+    flex-wrap: wrap;
+}
+.addcontact-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+button{
+    margin-top: 20px;
+}
+input{
+    width: 20%;
+}
